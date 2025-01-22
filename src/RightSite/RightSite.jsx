@@ -4,7 +4,7 @@ import Qzone from "./Links/Qzone";
 
 const RightSite = () => {
     return (
-        <div className="py-4 px-3 border space-y-3">
+        <div className="py-4 px-3 space-y-6">
             <Login></Login>
             <FindUs></FindUs>
             <Qzone></Qzone>

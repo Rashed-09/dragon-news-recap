@@ -1,8 +1,10 @@
+import AllCategory from "./Category/AllCategory";
+
 
 const LeftSite = () => {
     return (
         <div>
-            This is Left site
+            <AllCategory></AllCategory>
         </div>
     );
 };
